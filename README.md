@@ -4,3 +4,6 @@ In the technological project, the fake tweets (content) task was approached by a
 
 # Research Question
 This technological project proposes the research question of what accuracy can be reached in detecting fake tweets related to Russian invasion of Ukraine by applying developed the Long Short-Term Memory (LSTM) neural networks and the Gated Recurrent Unit (GRU) neural networks models. Specifically, the aim of this project is to develop and train Long Short-Term Memory (LSTM) neural networks and Gated Recurrent Unit (GRU) neural networks models by using publicly available datasets with related tweets. Additional question of the project is to identify the most accurate model that is effective in predicting fake tweets while also minimising the training time.
+
+# Pre-Process Diagram
+The diagram illustrates the process of creating The Long Short-Term Memory (LSTM) network and the Gated Recurrent Unit network models.
