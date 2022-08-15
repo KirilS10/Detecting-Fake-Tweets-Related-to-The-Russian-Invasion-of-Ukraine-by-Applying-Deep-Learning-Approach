@@ -7,4 +7,4 @@ This technological project proposes the research question of what accuracy can b
 
 # Pre-Process Diagram
 The diagram illustrates the process of creating The Long Short-Term Memory (LSTM) network and the Gated Recurrent Unit network models.
-![image](<img width="690" alt="Screenshot 2022-08-15 at 11 23 03" src="https://user-images.githubusercontent.com/76842663/184619197-fba8ceac-6318-47a3-b809-b55cedb16226.png">)
+![image]<img width="690" alt="Screenshot 2022-08-15 at 11 23 03" src="https://user-images.githubusercontent.com/76842663/184619197-fba8ceac-6318-47a3-b809-b55cedb16226.png">
